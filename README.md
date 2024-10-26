@@ -1,6 +1,6 @@
 # JS Mini Projects
 
-<img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png" width=20%> <img src="https://vitejs.dev/logo.svg" width=10%><br/>
+<img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png" width=20%> <img src="https://vitejs.dev/logo.svg" width=10%> <img src="https://www.hatimeria.com/images/marketing/vercel-logo.png" width=20%><br/>
 
 Learn JavaScript building mini applications.
 
