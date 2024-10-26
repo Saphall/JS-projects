@@ -1,4 +1,4 @@
-# [Weather App](https://weather-app-kappa-pied.vercel.app/)
+# [Weather App](https://weather-app-saphalls-projects.vercel.app/)
 
 Get Weather Details providing the city names.
 
